@@ -32,7 +32,7 @@ filetype indent on
 
 syntax enable
 
-colorscheme heraldish
+"colorscheme heraldish
 
 " Save all files and run make
 map <F5> :wall<CR>:make<CR>
@@ -78,3 +78,6 @@ let g:gitgutter_enabled = 1
 " use eslint
 let g:syntastic_javascript_checkers = ['eslint']
 
+" molokai 
+let g:molokai_original=1
+let g:rehash256=1
