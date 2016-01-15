@@ -97,9 +97,6 @@
 [submodule "bundle/heraldish"]
 	path = bundle/heraldish
 	url = https://github.com/petobens/heraldish
-[submodule "bundle/tsuquyomi"]
-	path = bundle/tsuquyomi
-	url = https://github.com/Quramy/tsuquyomi
 [submodule "bundle/vimproc.vim"]
 	path = bundle/vimproc.vim
 	url = https://github.com/Shougo/vimproc.vim
